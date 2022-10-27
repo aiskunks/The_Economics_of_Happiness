@@ -1,33 +1,34 @@
-# kindo
+# The Economics of Happiness
 
-Kindo is a reinforcement learning high-level API enabling developers and analysts to use [Stable Baselines 3](https://github.com/DLR-RM/stable-baselines3) and [TF-Agents](https://github.com/tensorflow/agents) algorithms.
+The idea is to annotate countries with as many economic indicators as possible and use that to predict the World Happiness Report scores for various years.
 
-[Stable Baselines 3](https://github.com/DLR-RM/stable-baselines3) is powered by [PyTorch](https://github.com/pytorch/pytorch).
-[TF-Agents](https://github.com/tensorflow/agents) is powered by [Tensorflow 2.X](https://github.com/tensorflow/tensorflow) \
-Kindo enables to train models using both Tensorflow 2.X and PyTorch deep learning frameworks.
+Since 2002, the World Happiness Report has used statistical analysis to determine the world's happiest countries https://worldhappiness.report/
 
+The WHR data is at https://www.kaggle.com/datasets/unsdsn/world-happiness
 
-## Main features
- - [x] Training algorithms from both tf_agents and stable_baselines3 packages
- - [x] Monitoring and plotting training history, saving it in a consistent format
- - [x] stable_baselines3 similar callbacks for both stable_baselines3 and tf_agents
- - [x] Open AI gym environments compatibility
- - [ ] Open AI gym environment from `.csv` file creation
- - [ ] Bandit problems support
+We will then use EDA, models, and model interpretability to determine which factors contribute the most to predicting the Happiness Score
 
-## Installation
-### Prerequisites
+## Tasks
 
-Kindo requires python 3.8+
+1. Find more relevant data to annotate each country  
+2. Create conceptual and physical models for the data  
+3. Exentend the EDA  
+4. Build predictive models  
+5. Model- Interpretability
+6. Game theoretic SHAP analysis  
 
-### Install using pip
-`pip install git+https://github.com/NEU-AI-Skunkworks/kindo.git@master`
+## Datasets
+ 
+*World Happiness Report*   
 
-## Important Information
+*Population by country*   
 
-If you use conda environment, and your kernel was killed with an error \
-`OMP: Error #15: Initializing libiomp5.dylib, but found libomp.dylib already initialized.` \
-Check out this [stackoverflow question](https://stackoverflow.com/a/54533223)
+*Democracy-dictatorship*  
 
-## Examples
-Kindo code example notebook is provided [here](examples/kindo_example.ipynb)
+*FRED online database*  
+FRED online database: https://fred.stlouisfed.org/
+
+## Colab Notebooks
+
+WHR_Happiness_Politics_and_Population_EDA.ipynb  https://colab.research.google.com/drive/1wpOpZ8_kE43XZuhFQTFau7S7zki95XRg?usp=sharing
+
