@@ -10,7 +10,7 @@ We will then use EDA, models, and model interpretability to determine which fact
 
 ## Tasks
 
-1. Find more relevant data to annotate each country  
+1. Find relevant data to annotate each country  
 2. Create conceptual and physical models for the data  
 3. Extend the EDA  
 4. Build predictive models  
