@@ -12,7 +12,7 @@ We will then use EDA, models, and model interpretability to determine which fact
 
 1. Find more relevant data to annotate each country  
 2. Create conceptual and physical models for the data  
-3. Exentend the EDA  
+3. Extend the EDA  
 4. Build predictive models  
 5. Model- Interpretability
 6. Game theoretic SHAP analysis  
