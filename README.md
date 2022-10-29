@@ -19,7 +19,7 @@ We will then use EDA, models, and model interpretability to determine which fact
 
 ## Datasets
  
- The base datafile using ISO_3166_country_codes is here
+ The base datafile using ISO 3166 country codes is here
  
  https://raw.githubusercontent.com/aiskunks/The_Economics_of_Happiness/main/CSV/TEH_Base_ISO_3166_country_codes.csv
  
