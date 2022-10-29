@@ -2,6 +2,13 @@
 
 Useful bot and data gathering scripts    
 
+## Data
+
+List of ISO 3166 country codes 
+
+FRED online database: https://fred.stlouisfed.org/
+
+
 
 
 ## Websites  
