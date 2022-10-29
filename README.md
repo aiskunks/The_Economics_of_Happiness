@@ -26,7 +26,7 @@ We will then use EDA, models, and model interpretability to determine which fact
  The two character Alpha-2 code and the year should be the primary key for any added data.
  
  
-*World Happiness Report*   
+*World Happiness Report* (2012 - 2020)   
 
 https://worldhappiness.report/archive/
 
