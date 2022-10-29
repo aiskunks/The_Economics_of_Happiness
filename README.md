@@ -28,6 +28,13 @@ We will then use EDA, models, and model interpretability to determine which fact
  
 *World Happiness Report*   
 
+https://worldhappiness.report/archive/
+
+Each dataset is listed under the year (e.g. for 2017)
+https://worldhappiness.report/ed/2017/#appendices-and-data
+
+
+
 *Population by country*   
 
 *Democracy-dictatorship*  
