@@ -1,42 +1,41 @@
-ISO 3166,,,ISO 3166-1,ISO 3166-1,ISO 3166-1,ISO 3166-2,
 Country name,Official state name,Sovereignty,Alpha-2 code,Alpha-3 code,Numeric code,Subdivision code links,Internet ccTLD
-Afghanistan,The Islamic Republic of Afghanistan,UN member state,AF,AFG,004,ISO 3166-2:AF,.af
+Afghanistan,The Islamic Republic of Afghanistan,UN member state,AF,AFG,4,ISO 3166-2:AF,.af
 Åland Islands,Åland,Finland,AX,ALA,248,ISO 3166-2:AX,.ax
-Albania,The Republic of Albania,UN member state,AL,ALB,008,ISO 3166-2:AL,.al
-Algeria,The People's Democratic Republic of Algeria,UN member state,DZ,DZA,012,ISO 3166-2:DZ,.dz
-American Samoa,The Territory of American Samoa,United States,AS,ASM,016,ISO 3166-2:AS,.as
-Andorra,The Principality of Andorra,UN member state,AD,AND,020,ISO 3166-2:AD,.ad
-Angola,The Republic of Angola,UN member state,AO,AGO,024,ISO 3166-2:AO,.ao
+Albania,The Republic of Albania,UN member state,AL,ALB,8,ISO 3166-2:AL,.al
+Algeria,The People's Democratic Republic of Algeria,UN member state,DZ,DZA,12,ISO 3166-2:DZ,.dz
+American Samoa,The Territory of American Samoa,United States,AS,ASM,16,ISO 3166-2:AS,.as
+Andorra,The Principality of Andorra,UN member state,AD,AND,20,ISO 3166-2:AD,.ad
+Angola,The Republic of Angola,UN member state,AO,AGO,24,ISO 3166-2:AO,.ao
 Anguilla,Anguilla,United Kingdom,AI,AIA,660,ISO 3166-2:AI,.ai
-Antarctica,All land and ice shelves south of the 60th parallel south,Antarctic Treaty,AQ,ATA,010,ISO 3166-2:AQ,.aq
-Antigua and Barbuda,Antigua and Barbuda,UN member state,AG,ATG,028,ISO 3166-2:AG,.ag
-Argentina,The Argentine Republic,UN member state,AR,ARG,032,ISO 3166-2:AR,.ar
-Armenia,The Republic of Armenia,UN member state,AM,ARM,051,ISO 3166-2:AM,.am
+Antarctica,All land and ice shelves south of the 60th parallel south,Antarctic Treaty,AQ,ATA,10,ISO 3166-2:AQ,.aq
+Antigua and Barbuda,Antigua and Barbuda,UN member state,AG,ATG,28,ISO 3166-2:AG,.ag
+Argentina,The Argentine Republic,UN member state,AR,ARG,32,ISO 3166-2:AR,.ar
+Armenia,The Republic of Armenia,UN member state,AM,ARM,51,ISO 3166-2:AM,.am
 Aruba,Aruba,Netherlands,AW,ABW,533,ISO 3166-2:AW,.aw
-Australia,The Commonwealth of Australia,UN member state,AU,AUS,036,ISO 3166-2:AU,.au
-Austria,The Republic of Austria,UN member state,AT,AUT,040,ISO 3166-2:AT,.at
-Azerbaijan,The Republic of Azerbaijan,UN member state,AZ,AZE,031,ISO 3166-2:AZ,.az
-Bahamas (the),The Commonwealth of The Bahamas,UN member state,BS,BHS,044,ISO 3166-2:BS,.bs
-Bahrain,The Kingdom of Bahrain,UN member state,BH,BHR,048,ISO 3166-2:BH,.bh
-Bangladesh,The People's Republic of Bangladesh,UN member state,BD,BGD,050,ISO 3166-2:BD,.bd
-Barbados,Barbados,UN member state,BB,BRB,052,ISO 3166-2:BB,.bb
+Australia,The Commonwealth of Australia,UN member state,AU,AUS,36,ISO 3166-2:AU,.au
+Austria,The Republic of Austria,UN member state,AT,AUT,40,ISO 3166-2:AT,.at
+Azerbaijan,The Republic of Azerbaijan,UN member state,AZ,AZE,31,ISO 3166-2:AZ,.az
+Bahamas (the),The Commonwealth of The Bahamas,UN member state,BS,BHS,44,ISO 3166-2:BS,.bs
+Bahrain,The Kingdom of Bahrain,UN member state,BH,BHR,48,ISO 3166-2:BH,.bh
+Bangladesh,The People's Republic of Bangladesh,UN member state,BD,BGD,50,ISO 3166-2:BD,.bd
+Barbados,Barbados,UN member state,BB,BRB,52,ISO 3166-2:BB,.bb
 Belarus,The Republic of Belarus,UN member state,BY,BLR,112,ISO 3166-2:BY,.by
-Belgium,The Kingdom of Belgium,UN member state,BE,BEL,056,ISO 3166-2:BE,.be
-Belize,Belize,UN member state,BZ,BLZ,084,ISO 3166-2:BZ,.bz
+Belgium,The Kingdom of Belgium,UN member state,BE,BEL,56,ISO 3166-2:BE,.be
+Belize,Belize,UN member state,BZ,BLZ,84,ISO 3166-2:BZ,.bz
 Benin,The Republic of Benin,UN member state,BJ,BEN,204,ISO 3166-2:BJ,.bj
-Bermuda,Bermuda,United Kingdom,BM,BMU,060,ISO 3166-2:BM,.bm
-Bhutan,The Kingdom of Bhutan,UN member state,BT,BTN,064,ISO 3166-2:BT,.bt
-Bolivia (Plurinational State of),The Plurinational State of Bolivia,UN member state,BO,BOL,068,ISO 3166-2:BO,.bo
+Bermuda,Bermuda,United Kingdom,BM,BMU,60,ISO 3166-2:BM,.bm
+Bhutan,The Kingdom of Bhutan,UN member state,BT,BTN,64,ISO 3166-2:BT,.bt
+Bolivia (Plurinational State of),The Plurinational State of Bolivia,UN member state,BO,BOL,68,ISO 3166-2:BO,.bo
 "Bonaire
  Sint Eustatius
  Saba","Bonaire, Sint Eustatius and Saba",Netherlands,BQ,BES,535,ISO 3166-2:BQ,.bq .nl
-Bosnia and Herzegovina,Bosnia and Herzegovina,UN member state,BA,BIH,070,ISO 3166-2:BA,.ba
-Botswana,The Republic of Botswana,UN member state,BW,BWA,072,ISO 3166-2:BW,.bw
-Bouvet Island,Bouvet Island,Norway,BV,BVT,074,ISO 3166-2:BV,
-Brazil,The Federative Republic of Brazil,UN member state,BR,BRA,076,ISO 3166-2:BR,.br
-British Indian Ocean Territory (the),The British Indian Ocean Territory,United Kingdom,IO,IOT,086,ISO 3166-2:IO,.io
+Bosnia and Herzegovina,Bosnia and Herzegovina,UN member state,BA,BIH,70,ISO 3166-2:BA,.ba
+Botswana,The Republic of Botswana,UN member state,BW,BWA,72,ISO 3166-2:BW,.bw
+Bouvet Island,Bouvet Island,Norway,BV,BVT,74,ISO 3166-2:BV,
+Brazil,The Federative Republic of Brazil,UN member state,BR,BRA,76,ISO 3166-2:BR,.br
+British Indian Ocean Territory (the),The British Indian Ocean Territory,United Kingdom,IO,IOT,86,ISO 3166-2:IO,.io
 British Virgin Islands – See Virgin Islands (British).,British Virgin Islands – See Virgin Islands (British).,British Virgin Islands – See Virgin Islands (British).,British Virgin Islands – See Virgin Islands (British).,British Virgin Islands – See Virgin Islands (British).,British Virgin Islands – See Virgin Islands (British).,British Virgin Islands – See Virgin Islands (British).,British Virgin Islands – See Virgin Islands (British).
-Brunei Darussalam,"The Nation of Brunei, the Abode of Peace",UN member state,BN,BRN,096,ISO 3166-2:BN,.bn
+Brunei Darussalam,"The Nation of Brunei, the Abode of Peace",UN member state,BN,BRN,96,ISO 3166-2:BN,.bn
 Bulgaria,The Republic of Bulgaria,UN member state,BG,BGR,100,ISO 3166-2:BG,.bg
 Burkina Faso,Burkina Faso,UN member state,BF,BFA,854,ISO 3166-2:BF,.bf
 Burma – See Myanmar.,Burma – See Myanmar.,Burma – See Myanmar.,Burma – See Myanmar.,Burma – See Myanmar.,Burma – See Myanmar.,Burma – See Myanmar.,Burma – See Myanmar.
@@ -227,7 +226,7 @@ Singapore,The Republic of Singapore,UN member state,SG,SGP,702,ISO 3166-2:SG,.sg
 Sint Maarten (Dutch part),Sint Maarten,Netherlands,SX,SXM,534,ISO 3166-2:SX,.sx
 Slovakia,The Slovak Republic,UN member state,SK,SVK,703,ISO 3166-2:SK,.sk
 Slovenia,The Republic of Slovenia,UN member state,SI,SVN,705,ISO 3166-2:SI,.si
-Solomon Islands,The Solomon Islands,UN member state,SB,SLB,090,ISO 3166-2:SB,.sb
+Solomon Islands,The Solomon Islands,UN member state,SB,SLB,90,ISO 3166-2:SB,.sb
 Somalia,The Federal Republic of Somalia,UN member state,SO,SOM,706,ISO 3166-2:SO,.so
 South Africa,The Republic of South Africa,UN member state,ZA,ZAF,710,ISO 3166-2:ZA,.za
 South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,United Kingdom,GS,SGS,239,ISO 3166-2:GS,.gs
@@ -269,7 +268,7 @@ Vanuatu,The Republic of Vanuatu,UN member state,VU,VUT,548,ISO 3166-2:VU,.vu
 "Vatican City – See Holy See, The.","Vatican City – See Holy See, The.","Vatican City – See Holy See, The.","Vatican City – See Holy See, The.","Vatican City – See Holy See, The.","Vatican City – See Holy See, The.","Vatican City – See Holy See, The.","Vatican City – See Holy See, The."
 Venezuela (Bolivarian Republic of),The Bolivarian Republic of Venezuela,UN member state,VE,VEN,862,ISO 3166-2:VE,.ve
 Viet Nam,The Socialist Republic of Viet Nam,UN member state,VN,VNM,704,ISO 3166-2:VN,.vn
-Virgin Islands (British),The Virgin Islands,United Kingdom,VG,VGB,092,ISO 3166-2:VG,.vg
+Virgin Islands (British),The Virgin Islands,United Kingdom,VG,VGB,92,ISO 3166-2:VG,.vg
 Virgin Islands (U.S.),The Virgin Islands of the United States,United States,VI,VIR,850,ISO 3166-2:VI,.vi
 Wallis and Futuna,The Territory of the Wallis and Futuna Islands,France,WF,WLF,876,ISO 3166-2:WF,.wf
 Western Sahara,The Sahrawi Arab Democratic Republic,Disputed,EH,ESH,732,ISO 3166-2:EH,
